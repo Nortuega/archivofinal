@@ -1,0 +1,12 @@
+[
+    {"id":1, "nombre":"Acordeón a Piano", "descripcion":"Acordeón color rojo con 5 registros", "imagen":"../img/Acordeon.jpg", "precio":150000, "stock":10, "categoria":"instrumentos"},
+    {"id":2, "nombre":"Guitarra Acústica", "descripcion":"Guitarra medio Concierto", "imagen":"../img/Guitarra.jpg", "precio":75000, "stock":25, "categoria":"instrumentos"},
+    {"id":3, "nombre":"Saxofón Alto", "descripcion":"Saxofón alto de Latón", "imagen":"../img/Saxofon.jpg", "precio":110000, "stock":15, "categoria":"instrumentos"},
+    {"id":4, "nombre":"Teclado", "descripcion":"Teclado Clásico varios rítmos", "imagen":"../img/Teclado.jpg", "precio":95000, "stock":10, "categoria":"instrumentos"},
+    {"id":5, "nombre":"Partitura de La pantera Rosa", "descripcion":"Partitura de La Pantera Rosa para Piano", "imagen":"../img/PartiPiano.jpg", "precio":1500, "stock":20, "categoria":"partituras"},
+    {"id":6, "nombre":"Partituras para Guitarra", "descripcion":"Partituras para Guitarra Española", "imagen":"../img/PartiGui.jpg", "precio":1500, "stock":20, "categoria":"partituras"},  
+    {"id":7, "nombre":"Partituras de Música Clásica", "descripcion":"Partituras de Música Clásica para Guitarra", "imagen":"../img/PartiClasica.jpg", "precio":1500, "stock":20, "categoria":"partituras"},
+    {"id":8, "nombre":"Teoría de la Música", "descripcion":"Teoría de la Música método Dummies", "imagen":"../img/LibroTeoria.jpg", "precio":4800, "stock":10, "categoria":"libros"},
+    {"id":9, "nombre":"Solfeo", "descripcion":"Solfeo fácil método Betancourt", "imagen":"../img/LibroSol.jpg", "precio":3000, "stock":10, "categoria":"libros"},
+    {"id":10, "nombre":"Como aprender Guitarra", "descripcion":"Libro para el aprendizaje de Guitarra", "imagen":"../img/LibroGui.jpg", "precio":5500, "stock":10, "categoria":"libros"}
+]
